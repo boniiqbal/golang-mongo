@@ -1,0 +1,10 @@
+hash: 8809789932eea3000492c703a9d36a43b62f81819bf6f3f051cee37836e41443
+updated: 2019-05-16T14:48:18.68562197+07:00
+imports:
+- name: github.com/gin-gonic/gin
+  version: 8ee9d959a0bcc132fae25ce61881c7effbe5c2f5
+- name: github.com/globalsign/mgo
+  version: eeefdecb41b842af6dc652aaea4026e8403e62df
+- name: github.com/mongodb/mongo-go-driver
+  version: 22576a0e9a77ea7471b5fc2b84cf8a4d3b9c7f3d
+testImports: []

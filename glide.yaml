@@ -1,0 +1,5 @@
+package: github.com/boni/golang-mongo
+import:
+- package: github.com/gin-gonic/gin
+- package: github.com/mongodb/mongo-go-driver
+- package: github.com/globalsign/mgo
